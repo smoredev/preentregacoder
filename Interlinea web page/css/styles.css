@@ -98,6 +98,7 @@ p {
 
 #imagenFooter {
     margin-top: 20px;
+    height: 200px;
 }
 
 .imagen{
@@ -106,3 +107,14 @@ p {
     height: 300px;
 }
 
+#headerImg{
+    width: 20%;
+    height: 10%;
+    
+}
+
+#aboutMainImg{
+    margin-top: 2em;
+    width: 650px;
+    height: 300px;
+}

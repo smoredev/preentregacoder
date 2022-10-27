@@ -10,15 +10,18 @@ body {
     margin-top: 1%;
 }
 
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 h1 {
     font-weight: 500; 
-    width: fit-content;
 }
 
 h2 {
     background-color: orange;
     font-weight: 300;
-    width: 40%;
     text-align: center; 
 }
 
@@ -75,11 +78,6 @@ hr {
     border: 2px dotted #000;
 }
 
-article {
-    width: 40%;
-    text-align: center;
-}
-
 .fotosMain {
     display: flex;
     justify-content: space-around;
@@ -101,3 +99,10 @@ p {
 #imagenFooter {
     margin-top: 20px;
 }
+
+.imagen{
+    margin: 10px 10px 10px 10px;
+    width: 200px;
+    height: 300px;
+}
+

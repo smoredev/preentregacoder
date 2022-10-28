@@ -71,6 +71,9 @@ form {
 
 .logoEmpresa {
     border-radius: 300px;
+    width: 500px;
+    height: 487px;
+    overflow: hidden;
     align-self: flex-end;
 }
 
@@ -103,7 +106,7 @@ p {
 
 .imagen{
     margin: 10px 10px 10px 10px;
-    width: 200px;
+    width: 400px;
     height: 300px;
 }
 
@@ -114,11 +117,6 @@ p {
 }
 
 #aboutMainImg{
-    margin-top: 2em;
-    width: 650px;
-    height: 300px;
-}
-
-form {
-    align-self: center;
+    width: 500px;
+    height: 350px;
 }
